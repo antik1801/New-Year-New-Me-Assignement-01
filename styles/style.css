@@ -80,7 +80,7 @@ header {
 }
 
 .part-2-footer {
-    background-image: url("/images/gradient3.png"), url("/images/watch.png");
+    background-image: url("./images/gradient3.png"), url("./images/watch.png");
     background-repeat: no-repeat;
     padding: 40px;
     margin: auto;
